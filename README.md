@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->I am a pre-final year student at IIIT Jabalpur. I am a full-stack developer (MERN) and currently learning and upskilling myself. 
 
-A few of my projects include:
-- **myToDos**: A web app for managing tasks.
-- **Hospital Management Web App**: A system to streamline hospital operations.
-- **React-Based Sorting Visualizer**: A tool to visualize sorting algorithms interactively.
+### About Me  
+I am a pre-final year student at **IIIT Jabalpur**. I am a **full-stack developer (MERN)** and currently focused on learning and upskilling myself.  
+
+### Projects  
+- **myToDos Web App**: A task management application.  
+- **Hospital Management Web App**: A comprehensive web-based solution for managing hospital operations.  
+- **React-based Sorting Visualizer**: A visualization tool for sorting algorithms.  
+
+### Skills  
+- **Programming Languages & Frameworks**: HTML, CSS, JavaScript, React, Express.js, Node.js, MongoDB.  
+- **Tools & Libraries**: JWT, Firebase, Mongoose, Bcrypt, Cloudinary API, RESTful APIs, VS Code.  
+- **Version Control**: Hands-on experience with **Git** and **GitHub**.
+
 
 [![An image of @nishantksagar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishantksagar)](https://holopin.io/@nishantksagar)
