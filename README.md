@@ -1,4 +1,4 @@
-# 💻 Hi there! I'm [Your Name] 👋  
+# 💻 Hi there! I'm Nishant 👋  
 
 I am a **pre-final year student** at **IIIT Jabalpur**, a passionate **Full-Stack Developer (MERN)**, and a continuous learner exploring new technologies. 🚀  
 
