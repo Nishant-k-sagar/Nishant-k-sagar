@@ -53,7 +53,7 @@ I am a **pre-final year student** at **IIIT Jabalpur**, a passionate **Full-Stac
 
 ### 🤝 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-kumar-sagar/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/your-profile/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/your-profile/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://leetcode.com/u/falc_oneinskii/)  
 
 ---  
