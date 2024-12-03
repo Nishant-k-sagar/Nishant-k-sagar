@@ -13,5 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->I am a pre-final year student at IIIT Jabalpur. I am a full-stack developer (MERN) and currently learning and upskilling myself. 
+
+A few of my projects include:
+- **myToDos**: A web app for managing tasks.
+- **Hospital Management Web App**: A system to streamline hospital operations.
+- **React-Based Sorting Visualizer**: A tool to visualize sorting algorithms interactively.
+
 [![An image of @nishantksagar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishantksagar)](https://holopin.io/@nishantksagar)
