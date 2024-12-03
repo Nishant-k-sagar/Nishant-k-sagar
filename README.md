@@ -12,8 +12,6 @@ I am a **pre-final year student** at **IIIT Jabalpur**, a passionate **Full-Stac
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)  
 
 ### ⚡ Frameworks and Libraries  
 ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)  
