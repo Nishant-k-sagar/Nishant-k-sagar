@@ -1,6 +1,6 @@
 # 💻 Hi, I am Nishant 👋  
 
-I am a **pre-final year student** at **IIIT Jabalpur**, a passionate **Full-Stack Developer (MERN)**, and a continuous learner exploring new technologies. 🚀  
+**pre-final year student** at **IIIT Jabalpur**, a passionate **Full-Stack Developer (MERN)**, and a continuous learner exploring new technologies. 🚀  
 
 ---
 
