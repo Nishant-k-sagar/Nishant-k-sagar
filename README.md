@@ -1,10 +1,10 @@
-# 💻 Hi, I am Nishant 👋  
+# Hi, I am Nishant 👋  
 
 **pre-final year student** at **IIIT Jabalpur**, a passionate **Full-Stack Developer (MERN)**, and a continuous learner exploring new technologies. 🚀  
 
 ---
 
-## 🛠️ My Projects  
+## My Projects  
 - **myToDos Web App**: A task management application.  
 - **Hospital Management Web App**: A comprehensive web-based solution for managing hospital operations.  
 - **React-based Sorting Visualizer**: A visualization tool for sorting algorithms.  
