@@ -12,7 +12,8 @@
 ## My Projects  
 - **myToDos Web App**: A task management application.  
 - **Hospital Management Web App**: A comprehensive web-based solution for managing hospital operations.  
-- **React-based Sorting Visualizer**: A visualization tool for sorting algorithms.  
+- **React-based Sorting Visualizer**: A visualization tool for sorting algorithms.
+- **Discord - clone**: learning based large project which implements sockets.io
 
 ---
 
