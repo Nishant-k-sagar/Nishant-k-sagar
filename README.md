@@ -5,7 +5,7 @@
 ---
 
 ## Currently building  
-[Samvaad - website](https://github.com/Nishant-k-sagar/samvaad-website)
+[Samvaad - website](https://github.com/Nishant-k-sagar/samvaad-website) - official website for cultural fraternity of Samvaad - IIIT Jabalpur
 
 ---
 
