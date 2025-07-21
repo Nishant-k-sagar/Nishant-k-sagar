@@ -15,7 +15,9 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant-k-sagar)](https://github.com/Nishant-k-sagar/github-readme-stats)
+<!---
+[![Nishant Kumar Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant-k-sagar)](https://github.com/Nishant-k-sagar/github-readme-stats)
+-->
 
 ---
 
