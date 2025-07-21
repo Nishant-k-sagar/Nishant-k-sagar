@@ -15,6 +15,10 @@
 
 ---
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishant-k-sagar)](https://github.com/Nishant-k-sagar/github-readme-stats)
+
+---
+
 ### 🤝 More about me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-kumar-sagar/)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/nottryingenouf/)  
