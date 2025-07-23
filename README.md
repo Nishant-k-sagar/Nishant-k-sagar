@@ -5,9 +5,11 @@
 ---
 
 ## Currently building  [Samvaad - website](https://github.com/Nishant-k-sagar/samvaad-website) - official website for cultural fraternity of Samvaad - IIIT Jabalpur, It is backed by its own custom Content management system(CMS) [Samvaad - CMS](https://github.com/Nishant-k-sagar/Samvaad-CMS)
+
 ---
 
 ## My Projects  
+- **ask**: A terminal integrated tool to get the required shell command using latest open sources llama 3.3 70b.
 - **myToDos Web App**: A task management application.  
 - **Hospital Management Web App**: A comprehensive web-based solution for managing hospital operations.  
 - **React-based Sorting Visualizer**: A visualization tool for sorting algorithms.
