@@ -24,7 +24,7 @@
 
 - B.Tech CSE @ **IIIT Jabalpur** (2022–2026)
 - Ex Full-Stack Intern @ **Apporigo Technologies**
-- **Flipkart Grid 6.0** — Top 0.067% out of 4,84,306 teams (Rank 327)
+- **Flipkart Grid 6.0** — Top 0.067% out of 4.5 Lacs+ teams (Rank 327)
 - **700+ problems** solved — LeetCode (1759), Codeforces (1302), CodeChef (1642 ★★★)
 - Building **dsa-cookbook** for last-moment DSA revision
 - Publishing blogs on my personal portfolio
