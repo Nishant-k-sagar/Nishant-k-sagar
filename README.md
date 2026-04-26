@@ -74,5 +74,5 @@
 
 ## Reach Me
 
-- 📧 nishantsagar172@gmail.com
-- 💼 [linkedin.com/in/nishant-k-sagar](https://linkedin.com/in/nishant-k-sagar)
+- nishantsagar172@gmail.com
+- [linkedin.com/in/nishant-k-sagar](https://linkedin.com/in/nishant-k-sagar)
