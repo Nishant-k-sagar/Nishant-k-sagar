@@ -36,7 +36,7 @@
 
 | Project | Description | Links |
 |---|---|---|
-| **personal-portfolio** | Medium-inspired portfolio with blogs, project showcases and progress timeline | [GitHub](https://github.com/Nishant-k-sagar/personal-portfolio) · [Live](https://nishant-k-sagar.github.io) |
+| **personal-portfolio** | Medium-inspired portfolio with blogs, project showcases and progress timeline | [GitHub](https://github.com/Nishant-k-sagar/nishant-k-sagar.github.io) · [Live](https://nishant-k-sagar.github.io) |
 | **dsa-cookbook** | DSA revision platform for interview prep — intuitions, approaches, pseudocode & solutions in a Kindle-styled UI | [GitHub](https://github.com/Nishant-k-sagar/dsa-cookbook) · [Live](https://dsa-cookbook.pages.dev) |
 | **ask** | CLI tool — natural language to shell commands converter | [GitHub](https://github.com/Nishant-k-sagar/ask) · [Binary](https://github.com/Nishant-k-sagar/ask/blob/master/dist/ask) |
 | **owlset** | Makes repo onboarding easier by providing repo context, functional flows and dependencies | [GitHub](https://github.com/Nishant-k-sagar/owlset) |
